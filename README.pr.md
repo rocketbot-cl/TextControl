@@ -1,20 +1,20 @@
-# Text Control
+# Controle de Texto
   
 Módulo para trabajar con textos  
 
 *Read this in other languages: [English](README.md), [Portugues](README.pr.md), [Español](README.es.md).*
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Baixe__ e __instale__ o conteúdo na pasta 'modules' no caminho do Rocketbot  
 
 
 
 ## Overview
 
 
-1. Get specific text  
-Extract the text between the two references indicated  
+1. Obter texto específico  
+Extrai o texto que se encontra entre as duas referências indicadas  
 
 
 
