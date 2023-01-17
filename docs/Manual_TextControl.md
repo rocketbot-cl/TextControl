@@ -22,3 +22,4 @@ Extract the text between the two references indicated
 |Enter reference 1|Enter reference 1|Hello|
 |Enter reference 2|Enter reference 2|World|
 |Assign result to a variable|Enter the name of the variable where the result will be stored|Variable|
+
